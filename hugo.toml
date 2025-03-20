@@ -1,3 +1,47 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+# --------------- Site Configuration ---------------
+baseURL = "https://robustreviews.github.io/"  # Change to your actual site URL when deploying
+languageCode = "en-uk"  # Set to your preferred language
+title = "RobustReviews"  # Site title
+theme = "hugo-bearblog"  # Ensure it matches the theme folder name
+
+
+# --------------- Site Parameters ---------------
+[params]
+  author = "Andy"  # Your name
+  description = "Exploring retro-tech and amateur radio."  # Site meta description
+  dateFormat = "02 January 2006"  # Format for dates on posts
+  showReadingTime = true  # Display reading time on blog posts
+  disableComments = false  # Set to true if you don’t want comments (if the theme supports them)
+
+# --------------- Menu Navigation ---------------
+
+[[menu.main]]
+  name = "YouTube"
+  url = "https://www.youtube.com/@robustreviews"
+  weight = 3
+  target = "_blank"  # Open in new tab
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
+
+# --------------- Social Links (If Theme Supports) ---------------
+[params.social]
+  x = "https://x.com/YOUR_HANDLE"
+  github = "https://github.com/robustreviews"
+  youtube = "https://www.youtube.com/YOUR_CHANNEL"
+
+# --------------- Deployment Settings ---------------
+[deployment]
+  [[deployment.targets]]
+    name = "github"
+    URL = "https://robustreviews.github.io/"
+
+[build]
+  minify = true
