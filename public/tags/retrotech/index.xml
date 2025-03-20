@@ -1,19 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Retrotech on RobustReviews</title>
-    <link>http://localhost:1313/tags/retrotech/</link>
-    <description>Recent content in Retrotech on RobustReviews</description>
-    <generator>Hugo</generator>
-    <language>en-uk</language>
-    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/retrotech/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>VCR&#43;/VideoPlus - The Video Timer Thingy</title>
-      <link>http://localhost:1313/blog/vcr&#43;-how-did-it-work/</link>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/vcr&#43;-how-did-it-work/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Retrotech on RobustReviews</title><link>https://robustreviews.github.io/tags/retrotech/</link><description>Recent content in Retrotech on RobustReviews</description><generator>Hugo</generator><language>en-uk</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://robustreviews.github.io/tags/retrotech/index.xml" rel="self" type="application/rss+xml"/><item><title>VCR+/VideoPlus - The Video Timer Thingy</title><link>https://robustreviews.github.io/blog/vcr+-how-did-it-work/</link><pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate><guid>https://robustreviews.github.io/blog/vcr+-how-did-it-work/</guid><description>&lt;p>&lt;img src="https://robustreviews.github.io/images/Gemstar-videoplus-vcrplus-remote.webp" alt="Photograph of a Gemstar VCR+ programming remote control">&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Remember VideoPlus aka VCR+?&lt;/em> Those codes that you used to find in newspapers and listings magazines to program your video recorder?&lt;/p>
+&lt;hr>
+&lt;h2 id="is-it-true-vcr-was-invented-because-a-mathematics-professor-couldnt-set-his-vcr-to-record-a-baseball-game">Is it true VCR+ was invented because a mathematics professor couldn&amp;rsquo;t set his VCR to record a baseball game?&lt;/h2>
+&lt;p>Yes, that&amp;rsquo;s entirely true. You can even &lt;a href="https://charlierose.com/videos/25649">watch Henry Yuen&lt;/a> (the co-inventor) discussing the very matter on the &lt;em>Charlie Rose&lt;/em> TV programme back in 2002.&lt;/p></description></item></channel></rss>
