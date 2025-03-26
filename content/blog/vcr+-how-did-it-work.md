@@ -14,6 +14,9 @@ tags = [
 
 ---
 
+This is based on [this video](https://youtu.be/EFdd7yDs7hQ?si=iKGft62lfqv9EQZW) which was uploaded to my channel 25 March 2025.
+
+
 ## Is it true VCR+ was invented because a mathematics professor couldn't set his VCR to record a baseball game?
 
 Yes, that's entirely true. You can even [watch Henry Yuen](https://charlierose.com/videos/25649) (the co-inventor) discussing the very matter on the *Charlie Rose* TV programme back in 2002.  
@@ -98,6 +101,7 @@ So, in summary—**deceptively simple, yet astonishingly complicated!**
 
 ---
 
-**Last updated: 20 March 2025 - Written by Andy.**  
+**First Uploaded: 20 March 2025 - Written by Andy.**  
+**Last Updated: 26 March 2025 - Add Video Link!**
 
 ---
