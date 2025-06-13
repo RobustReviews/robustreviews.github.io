@@ -33,7 +33,7 @@ I’ve had a **lifelong passion for all things nerdy**, especially in the world 
   Quite likely! If it involves a pub, or if you work in a factory, there's a chance I’ve passed through as part of my day job. But realistically, it’s probably the pub.  
 
 - **_"Marital status?"_**  
-  Divorced, currently single as of March 2025. *(Form an orderly queue, ladies.)*  
+  Divorced, currently single as of June 2025. *(Form an orderly queue, ladies.)*  
 
 - **_"Something about films, television, or computer games?"_**  
   Never really had an interest in any of them. Stopped watching TV entirely around **2015** (including streaming), have seen only a handful of films in my life, and never played video games beyond **Nokia Snake**.  
